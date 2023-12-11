@@ -1,4 +1,4 @@
-Code for paper *Visual Chain-of-Thought Prompting for Knowledge-based Visual Reasoning*
+Code for [paper](https://arxiv.org/abs/2301.05226) *Visual Chain-of-Thought Prompting for Knowledge-based Visual Reasoning*
 ## Overall framework
 ![framework](framework.png)
 
@@ -25,3 +25,13 @@ Code for paper *Visual Chain-of-Thought Prompting for Knowledge-based Visual Rea
 |-------------|------------------|------------------|-------------------|
 | OPT-66B     | 44.6             | 46.4             | 46.0              |
 | Llama-2-70B | 54.9             | 50.5             | 54.4              |
+## Cite
+arXiv version
+```
+@article{chen2023see,
+  title={See, think, confirm: Interactive prompting between vision and language models for knowledge-based visual reasoning},
+  author={Chen, Zhenfang and Zhou, Qinhong and Shen, Yikang and Hong, Yining and Zhang, Hao and Gan, Chuang},
+  journal={arXiv preprint arXiv:2301.05226},
+  year={2023}
+}
+```
