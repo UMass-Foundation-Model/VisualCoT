@@ -29,8 +29,8 @@ Code for [paper](https://arxiv.org/abs/2301.05226) *Visual Chain-of-Thought Prom
 arXiv version
 ```
 @article{chen2023see,
-  title={See, think, confirm: Interactive prompting between vision and language models for knowledge-based visual reasoning},
-  author={Chen, Zhenfang and Zhou, Qinhong and Shen, Yikang and Hong, Yining and Zhang, Hao and Gan, Chuang},
+  title={Visual Chain-of-Thought Prompting for Knowledge-based Visual Reasoning},
+  author={Chen, Zhenfang and Zhou, Qinhong and Shen, Yikang and Hong, Yining and Sun, Zhiqing and Gutfreund, Dan and Zhang, Hao and Gan, Chuang},
   journal={arXiv preprint arXiv:2301.05226},
   year={2023}
 }
