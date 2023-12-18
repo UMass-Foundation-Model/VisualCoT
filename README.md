@@ -30,7 +30,7 @@ arXiv version
 ```
 @article{chen2023see,
   title={Visual Chain-of-Thought Prompting for Knowledge-based Visual Reasoning},
-  author={Chen, Zhenfang and Zhou, Qinhong and Shen, Yikang and Hong, Yining and Sun, Zhiqing and Gutfreund, Dan and Zhang, Hao and Gan, Chuang},
+  author={Chen, Zhenfang and Zhou, Qinhong and Shen, Yikang and Hong, Yining and Sun, Zhiqing and Gutfreund, Dan and Gan, Chuang},
   journal={arXiv preprint arXiv:2301.05226},
   year={2023}
 }
